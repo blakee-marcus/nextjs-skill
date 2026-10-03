@@ -9,6 +9,18 @@ An independent, open Agent Skill for Next.js. It is **not** an official Vercel p
 ## Source material
 
 - The initial navigation index came from the official Next.js `llms.txt` at https://nextjs.org/docs/llms.txt (version 16.3.3).
+- The `create-next-app` reference was refreshed against https://nextjs.org/docs/app/api-reference/cli/create-next-app (version 16.3.8, updated 2026-08-25).
+- The `next` CLI reference was refreshed against https://nextjs.org/docs/app/api-reference/cli/next (version 16.3.8, updated 2026-08-25).
+- The Cache Components caching overview was refreshed against https://nextjs.org/docs/app/getting-started/caching (version 16.3.8, updated 2026-08-25).
+- The Server and Client Components overview was refreshed against https://nextjs.org/docs/app/getting-started/server-and-client-components (version 16.3.8, updated 2026-08-25).
+- The Fetching Data overview was refreshed against https://nextjs.org/docs/app/getting-started/fetching-data (version 16.3.8, updated 2026-09-07).
+- The Mutating Data overview was refreshed against https://nextjs.org/docs/app/getting-started/mutating-data (version 16.3.8, updated 2026-08-25).
+- The Revalidating overview was refreshed against https://nextjs.org/docs/app/getting-started/revalidating (version 16.3.8, updated 2026-06-25).
+- The How revalidation works guide was refreshed against https://nextjs.org/docs/app/guides/how-revalidation-works (version 16.3.8, updated 2026-06-01).
+- The Server Actions and Mutations guide was refreshed against https://nextjs.org/docs/app/guides/server-actions (version 16.3.8, updated 2026-06-17).
+- The Data Security guide was refreshed against https://nextjs.org/docs/app/guides/data-security (version 16.3.8, updated 2026-08-25).
+- The Error Handling overview was refreshed against https://nextjs.org/docs/app/getting-started/error-handling (version 16.3.8, updated 2026-06-10).
+- The Route Handlers overview was refreshed against https://nextjs.org/docs/app/getting-started/route-handlers (version 16.3.8, updated 2026-09-07).
 - Operational knowledge was extracted directly from official Next.js documentation pages at https://nextjs.org/docs/app/* and https://nextjs.org/docs/app/api-reference/*.
 - Every implementation-sensitive claim in the references should be paired with a source URL. Where a URL is missing, treat it as a TODO for future ingestion.
 

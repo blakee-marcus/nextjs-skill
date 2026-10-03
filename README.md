@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/Next.js-16+-000000?logo=next.js&logoColor=white" alt="Next.js 16+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/blakee-marcus/nextjs-skill" alt="MIT License"></a>
-  <img src="https://img.shields.io/badge/version-0.1.0-blue" alt="Version 0.1.0">
+  <img src="https://img.shields.io/badge/version-0.1.12-blue" alt="Version 0.1.12">
 </p>
 
 # Next.js Agent Skill
