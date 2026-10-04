@@ -125,7 +125,7 @@ Install the required packages:
 npm i next@latest react@latest react-dom@latest
 ```
 
-Even though the App Router bundles React canary releases, you should still declare `react` and `react-dom` in `package.json` for tooling and ecosystem compatibility. See [React version handling](../app-router.md#react-version-handling) for the router differences.
+Even though the App Router bundles React canary releases, you should still declare `react` and `react-dom` in `package.json` for tooling and ecosystem compatibility. See [React version handling](app-router.md#react-version-handling) for the router differences.
 
 Add typical scripts to `package.json`:
 
@@ -145,11 +145,11 @@ Add typical scripts to `package.json`:
 - `next build` builds for production.
 - `next start` starts the production server.
 
-For bundler details, including how to opt back into Webpack, see [Turbopack and Build](../turbopack-and-build.md).
+For bundler details, including how to opt back into Webpack, see [Turbopack and Build](turbopack-and-build.md).
 
 ## System requirements and browsers
 
-See [Migration and Upgrades](../migration-and-upgrades.md#requirements) for Node.js / OS / TypeScript requirements and supported browser versions.
+See [Migration and Upgrades](migration-and-upgrades.md#requirements) for Node.js / OS / TypeScript requirements and supported browser versions.
 
 ## TypeScript
 
@@ -234,7 +234,7 @@ Because the App Router uses repeated filenames (`page.tsx`, `layout.tsx`, `route
 
 Labeling two folders deep keeps dynamic routes like `blog/[id]/page.tsx` from collapsing to the same `[id]` label. JetBrains IDEs show the folder automatically.
 
-To upgrade an existing app, see [Migration and Upgrades](../migration-and-upgrades.md#keeping-up-to-date).
+To upgrade an existing app, see [Migration and Upgrades](migration-and-upgrades.md#keeping-up-to-date).
 
 ## Source URLs
 

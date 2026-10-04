@@ -1,0 +1,10 @@
+{
+  "name": "nextjs-skill",
+  "description": "Version-aware Next.js guidance grounded in installed framework evidence and official documentation.",
+  "version": "0.1.12",
+  "author": {
+    "name": "Blake Marcus"
+  },
+  "repository": "https://github.com/blakee-marcus/nextjs-skill",
+  "license": "MIT"
+}

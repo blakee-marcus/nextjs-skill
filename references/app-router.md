@@ -2,7 +2,7 @@
 
 Reference: https://nextjs.org/docs/app
 
-The **App Router** is Next.js's file-system based router. It uses React features including [Server Components](../server-client-components.md), [Suspense](../data-fetching-and-streaming.md), and [Server Functions](../mutations-and-server-actions.md).
+The **App Router** is Next.js's file-system based router. It uses React features including [Server Components](server-client-components.md), [Suspense](data-fetching-and-streaming.md), and [Server Functions](mutations-and-server-actions.md).
 
 ## Project structure
 
